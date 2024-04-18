@@ -11,10 +11,14 @@ This project is a Spring Boot application with React on a front-end side that se
 
 # Getting Started
 
-Clone this repository.
-Run Backend Java Spring app
-Install dependencies with npm install.
-Run the development server with npm start.
+- Clone this repository
+
+- Run Backend Java Spring app
+- 
+- Install dependencies with npm install
+  
+- Run the development server with npm start
+  
 
 
 
