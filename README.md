@@ -1,4 +1,4 @@
-# E - Library Application 📚
+# E - Library Shop 📚
 
 Project for Electronic Mobile Commerce subject from FINKI. 
 
